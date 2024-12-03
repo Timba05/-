@@ -1,0 +1,7 @@
+D:\Практика Студента\TANDT\var8zadanie2\bin\Debug\var8zadanie2.exe.config
+D:\Практика Студента\TANDT\var8zadanie2\bin\Debug\var8zadanie2.exe
+D:\Практика Студента\TANDT\var8zadanie2\bin\Debug\var8zadanie2.pdb
+D:\Практика Студента\TANDT\var8zadanie2\obj\Debug\var8zadanie2.csproj.AssemblyReference.cache
+D:\Практика Студента\TANDT\var8zadanie2\obj\Debug\var8zadanie2.csproj.CoreCompileInputs.cache
+D:\Практика Студента\TANDT\var8zadanie2\obj\Debug\var8zadanie2.exe
+D:\Практика Студента\TANDT\var8zadanie2\obj\Debug\var8zadanie2.pdb
